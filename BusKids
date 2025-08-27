@@ -1,0 +1,104 @@
+# Curated Security, Privacy, and Research Resources
+
+This repository collects useful resources, tools, and services for privacy, security, research, and automation.  
+**Disclaimer:** Some links may point to specialized or potentially sensitive sites; verify legality and safety before use. For educational and professional use only.
+
+---
+## 🛡️ Privacy & Security Platforms
+
+- **[Qubes OS](https://www.qubes-os.org/)**  
+  Security-focused open-source desktop OS. Uses Xen-based virtualization to compartmentalize tasks for maximum isolation and minimal attack surface[attached_file:2][web:5][web:9][web:10].
+
+- **[Tuta](https://tuta.com/)**  
+  Privacy-first provider of encrypted email, calendar, and contact services. Committed to sustainability and ethical privacy practices[attached_file:3].
+
+---
+
+## 🕵️ Anonymous Communication
+
+- **[Anonix](https://anonix.chat/)**  
+  Platform for secure and anonymous messages, chats, and group chats. Prioritizes privacy and user anonymity[attached_file:1].
+
+---
+
+## 🧪 Malware & Security Research
+
+- **[VX Underground: Malware Samples](https://vx-underground.org/Samples)**  
+  Extensive repository for malware samples and cyber research. Intended for researchers and professionals—ensure lawful and safe use.
+
+---
+
+## 🌐 Proxies & Networking
+
+- **[ProxyScrape](https://proxyscrape.com/)**  
+  Commercial provider of residential and datacenter proxies: HTTP, Socks5, unlimited bandwidth, high anonymity, 24/7 support[attached_file:1].
+
+- **[VSYS Host](https://vsys.host/)**  
+  Offshore hosting and internet infrastructure solutions.
+
+- **[Detect Expert: SOCKS Proxy Checker](https://detect.expert/sockscheck/)**  
+  Tool for testing proxy reliability and anonymity.
+
+---
+
+## 🚁 Drone & Hardware Tools
+
+- **[Drone-Hacks](https://drone-hacks.com/)**  
+  Firmware and utility tools for drone customization and hacking.
+
+- **[Espressif Production Testing Equipment](https://www.espressif.com/en/products/equipment/production-testing-equipment/overview)**  
+  Hardware for validating and testing ESP chips.
+
+---
+
+## 🤖 Automation & Social Growth
+
+- **[Kenji.AI](https://kenji.ai/pricing)**  
+  Instagram automation and organic follower growth via AI[attached_file:3].
+
+- **[SpoofCard](https://www.spoofcard.com/pricing)**  
+  Private calls and caller ID spoofing for communication privacy.
+
+---
+
+## 🔐 Authentication & Identity
+
+- **[Allthenticate](https://www.allthenticate.com/solutions/tech-companies)**  
+  Solutions for passwordless, SSO, and MFA for tech businesses.
+
+---
+
+## 🧩 CAPTCHA Solving
+
+- **[GSA Captcha Breaker](https://www.gsa-online.de/product/captcha_breaker/)**  
+  Automated CAPTCHA-solving software.
+
+- **[XEvil](https://xevil.net/en/)**  
+  AI-powered CAPTCHA recognition tool.
+
+---
+
+## 📡 Signal Jamming & Research
+
+- **[JammersPro](https://jammerspro.com/product-category/jammer/)**  
+  Signal jammers for testing and research (check legality in your jurisdiction).
+
+---
+
+## 🏷️ Miscellaneous / Creator Support
+
+- **[Patreon - VektorT13](https://www.patreon.com/vektort13)**  
+  Support and follow creator VektorT13.
+
+---
+
+## ⚠️ Suspicious / Cracked Software Resources
+
+*These are not recommended for public linking due to GitHub TOS and DMCA concerns.*
+
+- **[Dr.FarFar](https://www.dr-farfar.com/)**  
+  Repository site for pirated/cracked software (for internal research only).
+
+- **[CrackingPatching Security](https://crackingpatching.com/category/categories/security)**  
+  Cracks and patched utilities.
+
