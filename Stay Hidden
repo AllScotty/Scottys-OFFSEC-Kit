@@ -1,1 +1,28 @@
-test
+Trusted Privacy Tools
+
+    Qubes OS: Highly secure operating system using virtualization for isolation.
+
+Hardened Firefox: Configured with Ublock Origin, container tabs, disabled telemetry, and WebRTC for blocking trackers and preventing leaks.
+
+Tails: Live operating system designed for privacy, running from a USB stick and leaving no trace.
+
+Anonix.chat: Secure, anonymous chat platform for confidential communication.
+
+Tor Browser: Uses Tor network for obfuscated internet routing; avoid personal logins for maximum anonymity.
+
+Self-hosted VPN: Privately controlled VPN server for encrypted, safe network traffic.
+
+Encrypted DNS (DoH/DoT): DNS-over-HTTPS or DNS-over-TLS configuration to hide domain lookups from external observers.
+
+    Device ID Changer: Randomizes device identifiers to resist profiling.
+
+    Sandboxed Apps: Runs each application in a confined environment to contain exploits and leaks.
+
+Trusted VPN Providers
+
+    Mullvad VPN
+
+    IVPN
+
+    Proton VPN
+    These are recognized for strong privacy protections, audited security, and no-logging policies.
