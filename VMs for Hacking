@@ -6,7 +6,7 @@ You can seek help from the internet on how to perform this operation.
 2 - ) After enabling virtualization for your processor, the next step is to download the file named "leomoon cpu-v" from the link I provided. 
 Once you've downloaded the file, run it. If both sides show a green checkmark as you see in the image, you can skip the next steps and proceed to setting up the virtual machine.
 
-![](assets/leomoon.jpg)
+![](Allscotty/assets/leomoon.jpg) 
 
 3 - ) If you see a cross instead of a checkmark, the first thing you need to do is type 'Turn on Windows features on or off' in the Windows search bar and click the result. 
 Then, in the window that opens, you need to uncheck the areas I've marked with a red line in the image. 
