@@ -1,0 +1,22 @@
+The persistence loader gains execution through its chosen persistence technique and loads the payload into a relevant process using LoadLibrary or similar methods.
+Memory Permissions
+
+    The loader should apply the default memory page permissions for each module section, matching the behavior of LoadLibrary. This helps avoid allocating a large chunk of PAGE_EXECUTE_READWRITE memory, which could be easily discovered by forensic tools.
+
+DllMain Behavior
+
+    From DllMain, the payload spawns a new thread to run its main code. DllMain otherwise follows the behaviors specified by the MSDN documentation, including return values, in order to comply with its execution environment.
+
+Exit Status Handling
+
+    If possible, the loader should handle DllMain’s exit status in accordance with MSDN guidelines.
+
+    Loaders should collect the payload’s exit status. However, some persistence techniques do not allow the loader to access this exit status. In these cases, this return value may be ignored.
+
+    During unloading, loaders should zero out the memory used by the payload before freeing it. Again, if the persistence technique does not permit zeroing out memory, this step can be skipped.
+
+Handle Management and File Access
+
+    When possible, the loader should close any open handles on the payload to enable operations like self-deletion or obtaining exclusive locks on the file.
+
+    Payloads should be designed to handle situations where they are not present as a conventional DLL on disk, as file operations may fail or produce unexpected results. Payloads must manage this gracefully, and if continuation is not possible, exit with an error condition.
