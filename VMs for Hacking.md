@@ -35,7 +35,7 @@ VMware version 16 : https://drive.google.com/drive/folders/1N5TFs-aEv0LaG5-Teo7J
 License Key : ZF3R0-FHED2-M80TY-8QYGC-N[P]KYF 
 
 
-2 - ) Download the file 'vm3.0.rar' from the link I provided below. As shown in the video, create a file named "VM" on your desktop or in a location of your choice. 
+2 - ) Download the file 'vm3.0.rar'. As shown in the video, create a file named "VM" on your desktop or in a location of your choice. 
 The folder's name is not crucial; you can give it any name you prefer. Make sure the disk where the folder is located is a SSD. Afterward, copy the contents of the 'vm3.0.rar' file into the folder you created.
 PS : One VM needs approximately 55-60 gigabytes of space on your disk at max. Please keep this in your mind.
 3 - ) Copy the contents of the config file into the VM folder you created. 
