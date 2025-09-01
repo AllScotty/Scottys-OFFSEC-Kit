@@ -6,7 +6,7 @@ You can seek help from the internet on how to perform this operation.
 2 - ) After enabling virtualization for your processor, the next step is to download the file named "leomoon cpu-v" from the link I provided. 
 Once you've downloaded the file, run it. If both sides show a green checkmark as you see in the image, you can skip the next steps and proceed to setting up the virtual machine.
 
-![](Allscotty/assets/leomoon.jpg)
+!(Allscotty/assets/leomoon.jpg)
 
 <img src="./assets/leomoon.jpg" alt="Logo" />
 
