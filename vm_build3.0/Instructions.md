@@ -37,6 +37,7 @@ License Key : ZF3R0-FHED2-M80TY-8QYGC-N[P]KYF
 The folder's name is not crucial; you can give it any name you prefer. Make sure the disk where the folder is located is a SSD. Afterward, copy the contents of the 'vm3.0.rar' file into the folder you created.
 PS : One VM needs approximately 55-60 gigabytes of space on your disk at max. Please keep this in your mind.
 ![video](/assets/creating_vm.mp4)
+<video src="creating_vm.mp4" width="640" height="360" controls></video>
 
 
 3 - ) Copy the contents of the config file into the VM folder you created. 
