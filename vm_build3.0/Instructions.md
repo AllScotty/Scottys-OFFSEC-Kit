@@ -9,13 +9,7 @@ Once you've downloaded the file, run it. If both sides show a green checkmark as
 ![1](/assets/leomoon.jpg)
 
 
-
-3 - ) If you see a cross instead of a checkmark, the first thing you need to do is type 'Turn on Windows features on or off' in the Windows search bar and click the result. 
-Then, in the window that opens, you need to uncheck the areas I've marked with a red line in the image. 
-(You don't have to have all of them, if you see one of them just uncheck it.) 
-
-4 - ) Finally, type 'Core Isolation' into the Windows search bar and click on the result that appears. Put the part I marked with a red line in the image into the off mode, as shown.
-
+![1](assets/3and4.png)
 
 Unless you have any significantly different issues, you are ready to set up your virtual machines. 
 If, despite these steps, you still don't see two green checkmarks in the leomoon cpu-v program, you can send me a message for further assistance.
