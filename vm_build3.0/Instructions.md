@@ -27,6 +27,8 @@ If, despite these steps, you still don't see two green checkmarks in the leomoon
 CREATING AND RUNNING THE VM
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![1](/assets/123.png)
+
 
 1 - ) Type 'winver' into the Windows search bar. Click the result. If you see '2H22' in the line I marked with red in the image, download VMware Workstation version 17. If a lower version is displayed, download VMware Workstation version 16.
 
