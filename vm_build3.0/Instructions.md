@@ -9,7 +9,7 @@ Once you've downloaded the file, run it. If both sides show a green checkmark as
 ![1](/assets/leomoon.jpg)
 
 
-![1](assets/3and4.png)
+![1](/assets/3and4.png)
 
 Unless you have any significantly different issues, you are ready to set up your virtual machines. 
 If, despite these steps, you still don't see two green checkmarks in the leomoon cpu-v program, you can send me a message for further assistance.
