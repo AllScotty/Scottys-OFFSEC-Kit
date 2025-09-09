@@ -1,4 +1,4 @@
-# Offensive Journey China Pack
+# China Pack
 
 ### Everything to start your offensive journey is here
 
