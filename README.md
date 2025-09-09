@@ -1,8 +1,10 @@
-Everything to start your offensive journey is here
+# Offensive Journey China Pack
+
+### Everything to start your offensive journey is here
 
 ### Review the Files
-- **Warfare 101**: Resources and walkthroughs.  
-- **Hide**: Techniques and notes.  
+- **Warfare 101**: Resources and walkthroughs  
+- **Hide**: Techniques and notes  
 
 ### Topics to Check Out
 - VPNs  
@@ -11,12 +13,12 @@ Everything to start your offensive journey is here
 - Proxies (for browsing and shopping securely)  
 
 ### Fun Read
-- **DLL Injection**: Work backwards to discover a library of offensive code.  
+- **DLL Injection**: Work backwards to discover a library of offensive code  
 
 ### VM Build
-- Follow the instructions provided.  
-- Reference the included image — it contains every tool you’ll need.  
+- Follow the instructions provided  
+- Reference the included image — it contains every tool you’ll need  
 
 ---
 
-⚠️ **Note**: Ping me if I messed something up.  
+⚠️ **Note**: Ping me for anything — whether you’re selling information or just need guidance.  
