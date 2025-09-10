@@ -1,4 +1,6 @@
-	1. Spin up a Hardened Virtual Machine (vm_build3.0)
+I give myself permission 
+
+1. Spin up a Hardened Virtual Machine (vm_build3.0)
 	2. Chain a Multi-Hop VPN to Breach
 	3. Use Servers in Iceland and Switzerland and exit through a residential proxy from a Chicago ISP to look like a local user, blending with US Traffic
 	4. Encrypt DNS Queries with DoT via Cloudflare to mimic HTTPS Traffic hiding our probes from their firewalls to a void network monitoring
