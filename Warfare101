@@ -1,9 +1,9 @@
-I give myself permission 
+......I give myself permission 
 
 1. Spin up a Hardened Virtual Machine (vm_build3.0)
 	2. Chain a Multi-Hop VPN to Breach
-	3. Use Servers in Iceland and Switzerland and exit through a residential proxy from a Chicago ISP to look like a local user, blending with US Traffic
-	4. Encrypt DNS Queries with DoT via Cloudflare to mimic HTTPS Traffic hiding our probes from their firewalls to a void network monitoring
-	5. Scan for Vulnerable Edge Servers with NMAP, T2 Timing to find unpatched web servers to identify entry points.
-	6. Exploit Apache Flaws, with a Metasploit Reverse TCP Shell to access their backend DMZ, gaining Internal System Control
-  7. Exfiltrate Data in POST Requests, 100 bytes each sent every 15 seconds to a burner domain that YOU will register covertly retrieving files
+		3. Use Servers in Iceland and Switzerland and exit through a residential proxy from a Chicago ISP to look like a local user, blending with US Traffic
+			4. Encrypt DNS Queries with DoT via Cloudflare to mimic HTTPS Traffic hiding our probes from their firewalls to a void network monitoring
+				5. Scan for Vulnerable Edge Servers with NMAP, T2 Timing to find unpatched web servers to identify entry points.
+					6. Exploit Apache Flaws, with a Metasploit Reverse TCP Shell to access their backend DMZ, gaining Internal System Control
+  						7. Exfiltrate Data in POST Requests, 100 bytes each sent every 15 seconds to a burner domain that YOU will register covertly retrieving files
