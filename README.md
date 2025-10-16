@@ -21,4 +21,3 @@
 
 ---
 
-⚠️ **Note**: Ping me for anything — whether you’re selling information or just need guidance.  
